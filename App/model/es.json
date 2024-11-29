@@ -1,0 +1,210 @@
+{
+    "language":"Español",
+
+    "Header":{
+        "Navigation":{
+            "navItem1":"precio",
+            "navItem2":"darse de baja",
+            "login":"login"
+        },
+        "Modal_1":{
+            "title":"DARSE DE BAJA",
+            "alert":"Una vez enviado este mensaje, se procederá a dar de baja automáticamente. No se le cobrará y se borrarán los datos de nuestro servidor.",
+            "input_1":"Nombre Completo",
+            "input_2":"Correo Electronico ",
+            "input_3":"Mensaje",
+            "button":"Enviar",
+            "info":"Para cualquier otra consulta enviar correo a"
+        },
+        "Modal_2":{
+            "title":"Acceda a su cuenta",
+            "alert_1":"Recordarme",
+            "alert_2":"Olvidé mi contraseña",
+            "button":"Acceder"
+        },
+        "Modal_3":{
+            "title":"Completa tus datos",
+            "alert_1":"Declaro que soy mayor de edad según las leyes de mi país y he leído y acepto los términos y condiciones del servicio…",
+            "alert_2":"Aunque que mi información personal sea usada según lo indicado por la política de privacidad y he leído y acepto los política de privacidad",
+            "button":"Registrar Cuenta"
+        },
+        "Modal_Dialogo":{
+            "title":"Deseas finalizar?",
+            "content":"Recuerda que una vez finalizado no podrás cambiar ninguna de las respuestas.",
+            "button_1":"Cerrar",
+            "button_2":"Finalizar"
+        }
+    },
+
+    "Main":{
+        "Hero":{
+            "title":"Test de Personalidad Oficial 2024",
+            "content":"Solo 3 minutos para obtener una descripción 'increíblemente precisa' de quién eres y por qué haces las cosas como las haces.",
+            "button":"Realiza tu prueba personalizada"
+        },
+        "CardInfo":{
+            "title":"30 preguntas",
+            "content":"En sólo unos minutos, tratamos todos los temas necesarios para un análisis completo de su personalidad."
+        },
+        "CardInfo_2":{
+            "title":"Científicamente",
+            "content":"Nuestros tests de personalidad le proporcionan unos resultados exactos y precisos."
+        },
+        "CardInfo_3":{
+            "title":"Resultados inmediatos",
+            "content":"Al finalizar el test, recibirá los resultados de forma inmediata."
+        },
+        "CardDetail_1":{
+            "title":"Amplitud de miras ",
+            "content":"Indicador que sirve para definir en qué medida una persona está abierta a nuevas cosas y experiencias"
+        },
+        "CardDetail_2":{
+            "title":"Extraversión ",
+            "content":"Rasgo de la personalidad caracterizado por una frecuencia elevada de comportamientos destinados a establecer contactos sociales y a buscar nuevas estimulaciones."
+        },
+        "CardDetail_3":{
+            "title":"Convivialidad ",
+            "content":"La convivialidad evalúa el espíritu de equipo, las interacciones sociales y la capacidad para entenderse bien con los demás."
+        },
+        "CardDetail_4":{
+            "title":"Neuroticismo ",
+            "content":"La estabilidad emocional se refiere a la capacidad de una persona para permanecer estable y equilibrada. En el otro extremo de la escala."
+        },
+        "CardDetail_5":{
+            "title":"Conciencia profesional ",
+            "content":"Cuidado con el que se realiza la actividad profesional, el oficio"
+        },
+        "Question_Title":{
+            "title":"Preguntas Frecuentes"
+        },
+        "Question_1":{
+            "ask":"¿Quién ha creado este test?",
+            "answer":"El concepto de este test lo propuso Lewis Golberg en 1981 y más tarde fue desarrollado por Costa y McCrae entre 1987 y 1992."
+        },
+        "Question_2":{
+            "ask":"¿Qué significa este test?",
+            "answer":"Este test sirve para establecer el perfil psicológico de una persona, basándose en 5 grandes ámbitos. Sirve tanto para realizar estudios de población como para el desarrollo personal."
+        },
+        "Question_3":{
+            "ask":"¿Cómo se obtienen los resultados de este test?",
+            "answer":"Puede obtener los resultados de este test haciendo una prueba de 24 h o suscribiéndose."
+        },
+        "Question_4":{
+            "ask":"¿Cuáles son las modalidades de suscripción?",
+            "answer":"Para suscribirse, deberá ir a la página de tarifas y seleccionar la suscripción que desee. Después tendrá que seguir el proceso de pago."
+        },
+        "Question_5":{
+            "ask":"¿Qué permite la suscripción?",
+            "answer":"La suscripción permite realizar el test cuantas veces quiera (para usted o para otras personas) y obtener los resultados (para compararlos o guardarlos)."
+        },
+        "Testimony_Title":{
+            "title":"Testimonio"
+        },
+        "Testimony_1":{
+        
+            "rol":"Desarrollador web",
+            "content":"El test de personalidad fue una revelación. Me ayudó a entenderme mejor y me proporcionó una interpretación detallada que fue increíblemente útil. "
+        },
+        "Testimony_2":{
+        
+            "rol":"Diseñador grafico",
+            "content":"El test de personalidad fue una experiencia reveladora. Me mostró aspectos de mi carácter que no había reconocido antes y me permitió entender mejor mis motivaciones. "
+        },
+        "Testimony_3":{
+        
+            "rol":"Especialista en marketing",
+            "content":"Los resultados fueron precisos y me dieron una nueva perspectiva sobre mí mismo. Definitivamente lo recomendaría a mis amigos y familiares. "
+        }
+    },
+
+    "Price":{
+        "Hero":{
+            "title":"Precios sencillos y sin trucos",
+            "content":"Haz un pago inicial de 0.50 y en las proximas 24 horas tu suscripcion quedara activada"
+        },
+        "Card":{
+            "title":"Que incluye",
+            "description_1":"Acceda a todas las funciones durante 1 día de prueba",
+            "description_2":"Luego suscripción mensual a solo",
+            "letra":"O",
+            "button":"Inicia el test ahora",
+            "description_4":"Métodos de pago aceptados"
+        },
+        "List":
+        {
+            "content_1":"Evaluación de tu Tipo de personalidad y un informe completo con el análisis completo de tu tipo de personalidad y rasgos para el crecimiento personal.",
+            "content_2":"🌟 Explora tus Alas: Descubre cómo influyen los tipos de Eneagrama adyacentes en tu personalidad y crecimiento.",
+            "content_3":"🧘‍♀️ Encuentra el equilibrio: Alcanza la armonía emocional con nuestra perspicaz guía.",
+            "content_4":"❤️Impulsa las relaciones: Consigue conexiones personales y profesionales más profundas.",
+            "content_5":"💬Comunícate mejor: Aprende a comunicarte de forma clara y eficaz para mejorar tus relaciones.",
+            "content_6":"🚀Amplía tu perspectiva: Comprende diversos puntos de vista para tener una visión más rica del mundo.",
+            "content_7":"🎯Herramientas prácticas diarias: Aplica la sabiduría del Eneagrama en la vida cotidiana para un crecimiento continuo."
+        }
+
+
+    },
+
+    "TestInfo":{
+        "Hero":{
+            "title":"Test de personalidad",
+            "content":"Eres único, al igual que tu personalidad. Sumérgete en una experiencia fascinante de introspección participando en nuestro Exclusivo Test de Personalidad.",
+            "button":" Comenzar tes"
+        },
+        "CardInfo_1":{
+            "title":"-10 minutos",
+            "content":"Nuestra prueba dura menos de 10 minutos."
+        },
+        "CardInfo_2":{
+            "title":"Honestidad",
+            "content":"Debes responder honestamente"
+        },
+        "CardInfo_3":{
+            "title":"Sin opción neutra",
+            "content":"Intenta no dejar respuestas neutras."
+        }
+    },
+    
+    "End_Test":{
+        "CardDetail":{
+            "title":"Evaluación en curso",
+            "title_2":"Amplitud de miras",
+            "item_1":"Conciencia profesional",
+            "item_2":"Razonamiento abstracto",
+            "item_3":"Reconocimiento de patrones",
+            "item_4":"Orientación especial",
+            "item_5":"Pensamiento analítico"
+
+        }
+    },
+    "Preview_Test":{
+        "Hero":{
+            "title":"Este es tu Tipo de Personalidad:",
+            "content":"Sin duda, tienes mucho más de lo que parece. Su personalidad es como la de un camaleón social, que refleja la energía y las vibraciones de los demás. Esto se debe a que es una persona fácil de tratar, que disfruta haciendo que los demás se sientan cómodos y evita los conflictos. Tu actitud pacífica se ve reforzada por tu naturaleza tranquilizadora, amable y complaciente. Esto se debe a que es una persona fácil de tratar, que nos e disfruta haciendo que los demás se sientan cómodos y evita los conflictos. Tu actitud pacífica se ve reforzada por tu naturaleza tranquilizadora, amable y complaciente.",
+            "button":"Obtener Resultados"
+        },
+        "CardInfo":{
+            "title":"Lo que vas a obtener",
+            "alert":"Más de 3 millones de personas han realizado este preciso test en todo el mundo con un índice de satisfacción del 98%."
+        },
+        "Banner":{
+            "title":"Consigue los resultados de tu test y descubre tu verdadero potencial.",
+            "content":"️ Es necesario pagar una tasa para determinar su verdadero tipo de personalidad. Esta tarifa cubre el procesamiento adicional necesario para proporcionarle resultados precisos y fiables."
+        }
+    },
+    "Footer":{
+        "terms":{
+            "title":"Términos y condiciones"
+        },
+        "cookkie":{
+            "title":"Política de cookies"
+        },
+        "privacy":{
+            "title":"Política de privacidad"
+        },
+        "content":{
+            "title":"El material de este sitio web se ofrece únicamente con fines de entretenimiento y no debe utilizarse para tomar decisiones. Cualquier uso del contenido de esta plataforma es únicamente bajo su propio riesgo y siempre aconsejamos completar una evaluación en persona con un terapeuta profesional en su localidad."
+        }
+    
+    }
+
+}

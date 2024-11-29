@@ -1,0 +1,207 @@
+{
+    "language":"Italiano",
+   "Header":{ 
+        "Navigation":{
+            "navItem1":"prezzo",
+            "navItem2":"annullare l'iscrizione",
+            "login":"se connecter"
+        },
+        "Modal_1":{
+            "title":"CANCELLARE L'ISCRIZIONE",
+            "alert":"Una volta inviato questo messaggio, l'iscrizione verrà automaticamente annullata. Non ti verrà addebitato alcun costo e i tuoi dati verranno cancellati dal nostro server.",
+            "input_1":"Nome e cognome",
+            "input_2":"E-mail",
+            "input_3":"Messaggio",
+            "button":"Inviare",
+            "info":"Per qualsiasi altra domanda inviare un'e-mail a"
+        },
+        "Modal_2":{
+            "title":"Accedi al tuo account",
+            "alert_1":"Ricordati di me",
+            "alert_2":"Ho dimenticato la password",
+            "button":"Accesso"
+        },
+        "Modal_3":{
+            "title":"Completa i tuoi dati",
+            "alert_1":"Dichiaro di essere maggiorenne secondo le leggi del mio paese e di aver letto e accettato i termini e le condizioni del servizio.",
+            "alert_2":"Sebbene le mie informazioni personali vengano utilizzate come indicato dall'informativa sulla privacy e ho letto e accetto l'informativa sulla privacy",
+            "button":"Registra l'account"
+        },
+        "Modal_Dialogo":{
+            "title":"Vuoi finire?",
+            "content":"Ricorda che una volta terminato non potrai modificare nessuna delle risposte. Ricorda che una volta terminato non potrai modificare nessuna delle risposte.",
+            "button_1":"Vicino",
+            "button_2":"Fine"
+        }
+    }
+    ,
+    "Main":{
+        "Hero":{
+            "title":"Test ufficiale della personalità 2024",
+            "content":"Solo 3 minuti per ottenere una descrizione 'incredibilmente accurata' di chi sei e perché fai le cose nel modo in cui le fai.",
+            "button":"Fai il tuo test personalizzato"
+        },
+        "CardInfo":{
+            "title":"30 domande",
+            "content":"In pochi minuti copriamo tutti gli argomenti necessari per un’analisi completa della tua personalità."
+        },
+        "CardInfo_2":{
+            "title":"Scientificamente",
+            "content":"I nostri test della personalità forniscono risultati accurati e precisi."
+        },
+        "CardInfo_3":{
+            "title":"Risultati immediati",
+            "content":"Al termine del test riceverai immediatamente i risultati."
+        },
+        "CardDetail_1":{
+            "title":"Ampiezza di visione ",
+            "content":"Indicatore che serve a definire il grado di apertura di una persona a cose ed esperienze nuove"
+        },
+        "CardDetail_2":{
+            "title":"Estroversione ",
+            "content":"Tratto della personalità caratterizzato da un'alta frequenza di comportamenti volti a stabilire contatti sociali e cercare nuovi stimoli."
+        },
+        "CardDetail_3":{
+            "title":"Convivialità ",
+            "content":"La convivialità valuta lo spirito di squadra, le interazioni sociali e la capacità di andare d'accordo con gli altri."
+        },
+        "CardDetail_4":{
+            "title":"Nevroticismo ",
+            "content":"La stabilità emotiva si riferisce alla capacità di una persona di rimanere stabile ed equilibrata. All'altra estremità della scala."
+        },
+        "CardDetail_5":{
+            "title":"Consapevolezza professionale",
+            "content":"La cura con cui viene svolta l'attività professionale, il mestiere"
+        },
+        
+        "Question_Title":{
+            "title":"Domande frequenti"
+        },
+        "Question_1":{
+            "ask":"Chi ha creato questo test?",
+            "answer":"Il concetto di questo test è stato proposto da Lewis Golberg nel 1981 e successivamente sviluppato da Costa e McCrae tra il 1987 e il 1992."
+        },
+        "Question_2":{
+            "ask":"Cosa significa questo test?",
+            "answer":"Questo test serve a stabilire il profilo psicologico di una persona, basandosi su 5 aree principali. Viene utilizzato sia per effettuare studi sulla popolazione che per lo sviluppo personale."
+        },
+        "Question_3":{
+            "ask":"Come si ottengono i risultati di questo test?",
+            "answer":"Puoi ottenere i risultati di questo test effettuando una prova di 24 ore o iscrivendoti."
+        },
+        "Question_4":{
+            "ask":"Quali sono le modalità di abbonamento?",
+            "answer":"Per abbonarti dovrai andare alla pagina delle tariffe e selezionare l'abbonamento che desideri. Successivamente dovrai seguire la procedura di pagamento."
+        },
+        "Question_5":{
+            "ask":"Cosa consente l'abbonamento?",
+            "answer":"L'abbonamento ti permette di sostenere il test quante volte vuoi (per te o per altre persone) e di ottenere i risultati (per confrontarli o salvarli)."
+        },
+        "Testimony_Title":{
+            "title":"Testimonianza"
+        },
+        "Testimony_1":{
+        
+            "rol":"Sviluppatore web",
+            "content":"Il test della personalità è stato una rivelazione. Mi ha aiutato a capire meglio me stesso e mi ha fornito un'interpretazione dettagliata che è stata incredibilmente utile. "
+        },
+        "Testimony_2":{
+        
+            "rol":"grafico",
+            "content":"Il test della personalità è stata un’esperienza che mi ha aperto gli occhi. Mi ha mostrato aspetti del mio carattere che prima non avevo riconosciuto e mi ha permesso di comprendere meglio le mie motivazioni. "
+        },
+        "Testimony_3":{
+        
+            "rol":"Specialista di marketing",
+            "content":"I risultati sono stati accurati e mi hanno dato una nuova prospettiva su me stesso. Lo consiglierei sicuramente ai miei amici e alla mia famiglia."
+        }
+    },
+    "Price":{
+        "Hero":{
+            "title":"Prezzi semplici senza trucchi Prezzi semplici senza trucchi",
+            "content":"Effettua un pagamento iniziale di 0,50 e nelle prossime 24 ore il tuo abbonamento verrà attivato"
+        },
+        "Card":{
+            "title":"Cosa include",
+            "description_1":"Accedi a tutte le funzionalità durante una prova di 1 giorno",
+            "description_2":"Poi solo abbonamento mensile",
+            "letra":"O",
+            "button":"Inizia il test adesso",
+            "description_4":"Metodi di pagamento accettati"
+        },
+        "List":
+        {
+            "content_1":"Valutazione del tuo tipo di personalità e un report completo con l'analisi completa del tuo tipo di personalità e dei tratti per la crescita personale.",
+            "content_2":"🌟 Esplora le tue ali: scopri come i tipi adiacenti di Enneagramma influenzano la tua personalità e la tua crescita.",
+            "content_3":"🧘‍♀️ Trova l'equilibrio: raggiungi l'armonia emotiva con la nostra guida approfondita.",
+            "content_4":"❤️Potenzia le relazioni: ottieni connessioni personali e professionali più profonde.",
+            "content_5":"💬Comunicare meglio: impara a comunicare in modo chiaro ed efficace per migliorare le tue relazioni.",
+            "content_6":"🚀Amplia la tua prospettiva: comprendi diversi punti di vista per avere una visione più ricca del mondo.",
+            "content_7":"🎯Strumenti pratici quotidiani: applica la saggezza dell'Enneagramma nella vita di tutti i giorni per una crescita continua."
+        }
+    },
+    "TestInfo":{
+        "Hero":{
+            "title":"test della personalità",
+            "content":"Sei unico, proprio come la tua personalità. Immergiti in un'affascinante esperienza di introspezione partecipando al nostro esclusivo test della personalità.",
+            "button":" Inizia la prova"
+        },
+        "CardInfo_1":{
+            "title":"-10 minuti",
+            "content":"Il nostro test dura meno di 10 minuti."
+        },
+        "CardInfo_2":{
+            "title":"Onestà",
+            "content":"Devi rispondere onestamente"
+        },
+        "CardInfo_3":{
+            "title":"Nessuna opzione neutra",
+            "content":"Cerca di non lasciare risposte neutre."
+        }
+    },
+
+    "End_Test":{
+        "CardDetail":{
+            "title":"Valutazione in corso",
+            "title_2":"Ampiezza di visione",
+            "item_1":"Consapevolezza professionale",
+            "item_2":"ragionamento astratto",
+            "item_3":"Riconoscimento di modelli",
+            "item_4":"Guida speciale",
+            "item_5":"Pensiero analitico"
+
+        }
+    },
+    "Preview_Test":{
+        "Hero":{
+            "title":"Questo è il tuo tipo di personalità:",
+            "content":"Senza dubbio, hai molto più di quanto sembri. La tua personalità è come quella di un camaleonte sociale, che riflette l’energia e le vibrazioni degli altri. Questo perché è una persona accomodante, a cui piace far sentire gli altri a proprio agio ed evita i conflitti. Il tuo comportamento pacifico è migliorato dalla tua natura calmante, gentile e accomodante. Questo perché è una persona accomodante, a cui piace far sentire gli altri a proprio agio ed evita i conflitti. Il tuo comportamento pacifico è migliorato dalla tua natura calmante, gentile e accomodante.",
+            "button":"Ottieni risultati"
+        },
+        "CardInfo":{
+            "title":"Cosa otterrai",
+            "alert":"Più di 3 milioni di persone hanno sostenuto questo preciso test in tutto il mondo con un tasso di soddisfazione del 98%."
+        },
+        "Banner":{
+            "title":"Ottieni i risultati dei test e scopri il tuo vero potenziale.",
+            "content":"️ Devi pagare una tariffa per determinare il tuo vero tipo di personalità. Questa tariffa copre l'elaborazione aggiuntiva necessaria per fornire risultati accurati e affidabili.  Devi pagare una tariffa per determinare il tuo vero tipo di personalità. Questa tariffa copre l'elaborazione aggiuntiva necessaria per fornire risultati accurati e affidabili."
+        }
+    },
+
+    "Footer":{
+        "terms":{
+            "title":"Termini e Condizioni"
+        },
+        "cookkie":{
+            "title":"Politica sui cookie"
+        },
+        "privacy":{
+            "title":"politica sulla riservatezza"
+        },
+        "content":{
+            "title":" Il materiale presente su questo sito Web è fornito solo a scopo di intrattenimento e non deve essere utilizzato per prendere decisioni. Qualsiasi utilizzo dei contenuti su questa piattaforma è esclusivamente a tuo rischio e pericolo e ti consigliamo sempre di completare una valutazione di persona con un terapista professionista nella tua zona."
+    }
+    
+    }
+
+}

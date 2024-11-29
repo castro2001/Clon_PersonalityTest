@@ -1,0 +1,206 @@
+{
+    "language":"English",
+    "Header":{
+        "Navigation":{
+            "navItem1":"price",
+            "navItem2":"unsubscribe",
+            "login":"Login"
+        },
+        "Modal_1":{
+            "title":"UNSUBSCRIBE",
+            "alert":"Once this message is sent, you will be automatically unsubscribed. You will not be charged and your data will be deleted from our server.",
+            "input_1":"Full Name",
+            "input_2":"Email",
+            "input_3":"Message",
+            "button":"Send",
+            "info":"For any other queries send email to"
+        },
+        "Modal_2":{
+            "title":"Access your account",
+            "alert_1":"Remember me",
+            "alert_2":"I forgot my password",
+            "button":"Login"
+        },
+        "Modal_3":{
+            "title":"Please fill in your details",
+            "alert_1":"I declare that I am of legal age according to the laws of my country and I have read and accept the terms and conditions of the service..",
+            "alert_2":"Although my personal information is used as indicated by the privacy policy and I have read and accept the privacy policyAlthough my personal information is used as indicated by the privacy policy and I have read and accept the privacy policy",
+            "button":"Register Account"
+        },
+        "Modal_Dialogo":{
+            "title":"",
+            "content":"",
+            "button_1":"",
+            "button_2":""
+        }
+
+    }
+    ,
+    "Main":{
+        "Hero":{
+            "title":"Official Personality Test 2024",
+            "content":"Just 3 minutes to get an 'incredibly accurate' description of who you are and why you do things the way you do.",
+            "button":"Take your personalized test"
+        },
+        "CardInfo":{
+            "title":"30 questions",
+            "content":"In just a few minutes, we cover all the topics necessary for a complete analysis of your personality."
+        },
+        "CardInfo_2":{
+            "title":"Scientifically",
+            "content":"Our personality tests provide you with accurate and precise results."
+        },
+        "CardInfo_3":{
+            "title":"Immediate results",
+            "content":"Upon completion of the test, you will receive the results immediately."
+        },
+        "CardDetail_1":{
+            "title":" Broad-mindedness",
+            "content":"Indicator that serves to define the extent to which a person is open to new things and experiences"
+        },
+        "CardDetail_2":{
+            "title":" Extraversion",
+            "content":"Personality trait characterized by a high frequency of behaviors aimed at establishing social contacts and seeking new stimulation."
+        },
+        "CardDetail_3":{
+            "title":"Conviviality ",
+            "content":"Conviviality assesses team spirit, social interactions and the ability to get along well with others."
+        },
+        "CardDetail_4":{
+            "title":"Neuroticism ",
+            "content":"Emotional stability refers to a person's ability to remain stable and balanced. At the other end of the scale."
+        },
+        "CardDetail_5":{
+            "title":"Professional conscientiousness ",
+            "content":"Care with which one carries out one's professional activity, one's job"
+        },
+        
+        "Question_Title":{
+            "title":"Frequently Asked Questions"
+        },
+        "Question_1":{
+            "ask":"Who created this test?",
+            "answer":"The concept of this test was proposed by Lewis Golberg in 1981 and was later developed by Costa and McCrae between 1987 and 1992."
+        },
+        "Question_2":{
+            "ask":"What does this test mean?",
+            "answer":"This test is used to establish a person's psychological profile, based on 5 major areas. It is used both for population studies and for personal development."
+        },
+        "Question_3":{
+            "ask":"How are the results of this test obtained?",
+            "answer":"You can obtain the results of this test by taking a 24-hour test or by subscribing."
+        },
+        "Question_4":{
+            "ask":"What are the subscription options?",
+            "answer":"To subscribe, you will need to go to the pricing page and select the subscription you want. You will then need to follow the payment process."
+        },
+        "Question_5":{
+            "ask":"What does the subscription allow?",
+            "answer":"The subscription allows you to take the test as many times as you want (for yourself or for others) and get the results (to compare or save)."
+        },
+        "Testimony_Title":{
+            "title":"Testimonial"
+        },
+        "Testimony_1":{
+            "rol":"Web Developer",
+            "content":"The personality test was an eye-opener. It helped me understand myself better and provided me with a detailed interpretation that was incredibly helpful."
+        },
+        "Testimony_2":{
+            "rol":"Graphic Designer",
+            "content":"The personality test was an eye-opening experience. It showed me aspects of my character that I hadn't recognized before and allowed me to better understand my motivations."
+        },
+        "Testimony_3":{
+            "rol":"Marketing Specialist",
+            "content":"The results were accurate and gave me a new perspective on myself. I would definitely recommend it to my friends and family."
+        }
+    
+    },
+    
+    "Price":{
+        "Hero":{
+            "title":"Simple, no-frills pricing",
+            "content":"Make an initial payment of 0.50 and your subscription will be activated within the next 24 hours"
+        },
+        "Card":{
+            "title":"What's included",
+            "description_1":"Access all features for 1 day trial",
+            "description_2":"Then monthly subscription for just",
+            "letra":"Or",
+            "button":"Start Test Now",
+            "description_4":"Payment Methods Accepted"
+        },
+        "List":
+        {
+            "content_1":"Assessment of your Personality Type and a complete report with the complete analysis of your personality type and traits for personal growth.",
+            "content_2":"🌟 Explore your Wings: Discover how adjacent Enneagram types influence your personality and growth.",
+            "content_3":"🧘‍♀️ Find balance: Achieve emotional harmony with our insightful guide.",
+            "content_4":"❤️ Boost relationships: Make deeper personal and professional connections.",
+            "content_5":"💬 Communicate better: Learn to communicate clearly and effectively to improve your relationships.",
+             "content_6":"🚀 Broaden your perspective: Understand diverse points of view to have a richer view of the world",
+            "content_7":"🎯Daily Practical Tools: Apply the wisdom of the Enneagram in everyday life for continued growth."
+        }
+
+
+    },
+    "TestInfo":{
+        "Hero":{
+            "title":"Personality Test",
+            "content":"You are unique, just like your personality. Dive into a fascinating experience of introspection by taking our Exclusive Personality Test.",
+            "button":"Start Test "
+        },
+        "CardInfo_1":{
+            "title":"-10 minutes",
+            "content":"Our test takes less than 10 minutes."
+        },
+        "CardInfo_2":{
+            "title":"Honesty",
+            "content":"You must answer honestly"
+        },
+        "CardInfo_3":{
+            "title":"No neutral option",
+            "content":"Try not to leave neutral answers."
+        }
+    },
+    
+    "End_Test":{
+        "CardDetail":{
+            "title":"Assessment in progress",
+            "title_2":"Broad-mindedness",
+            "item_1":"Professional awareness",
+            "item_2":"Abstract reasoning",
+            "item_3":"Pattern recognition",
+            "item_4":"Special orientation",
+            "item_5":"Analytical thinking"
+
+        }
+    },
+    "Preview_Test":{
+        "Hero":{
+            "title":"This is your Personality Type:",
+            "content":"There is definitely more to you than meets the eye. Your personality is like that of a social chameleon, mirroring the energy and vibes of others. This is because you are an easy-going person, who enjoys making others feel comfortable and avoids conflict. Your peaceful attitude is enhanced by your reassuring, kind and accommodating nature. This is because you are an easy-going person, who enjoys making others feel comfortable and avoids conflict. Your peaceful attitude is enhanced by your reassuring, kind and accommodating nature.",
+            "button":"Get Results"
+        },
+        "CardInfo":{
+            "title":"What you will get",
+            "alert":"Over 3 million people have taken this accurate test worldwide with a 98% satisfaction rate."
+        },
+        "Banner":{
+            "title":"Get your test results and discover your true potential.",
+            "content":"️ A fee is required to determine your true personality type. This fee covers the additional processing required to provide you with accurate and reliable results."
+        }
+    },
+    "Footer":{
+        "terms":{
+            "title":"Terms and Conditions"
+        },
+        "cookkie":{
+            "title":"Cookie Policy"
+        },
+        "privacy":{
+            "title":"Privacy Policy"
+        },
+        "content":{
+            "title": "The material on this website is provided for entertainment purposes only and should not be relied upon to make decisions. Any use of the content on this platform is solely at your own risk and we always advise completing an in-person assessment with a professional therapist in your area."
+        }
+    }
+}

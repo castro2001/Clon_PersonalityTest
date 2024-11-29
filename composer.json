@@ -1,0 +1,19 @@
+{
+    "name": "castro2001/clon_personalitytest",
+    "description": "Clon_PersonalityTest",
+    "type":"project",
+    
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/",
+            "Core\\":"Core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "castro2001",
+            "email": "alexandercastrolino@gmail.com"
+        }
+    ]
+}

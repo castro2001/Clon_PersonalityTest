@@ -1,0 +1,10 @@
+RewriteEngine on
+Options All -Indexes
+
+RewriteBase /Clon_PersonalityTest/
+# RewriteBase /pruebalading.atwebpages.com/
+# Redirigir la raíz al directorio "public"
+RewriteRule ^$ public/ [L]
+# RewriteRule ^([a-zA-Z0-9_-]+)/?$ index.php?views=$1 [L]
+# Reescribir URLs amigables como: /start-test
+RewriteRule ^([a-zA-Z0-9_-]+)/?$ public/index.php?views=$1 [L]
